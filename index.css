@@ -706,6 +706,12 @@ body {
       border: 1px solid #ccc;
       border-radius: 4px;
   }
+
+  #state{
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+  }
 }
 
 
