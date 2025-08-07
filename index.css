@@ -700,6 +700,12 @@ body {
   .card-container {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .select{
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+  }
 }
 
 
