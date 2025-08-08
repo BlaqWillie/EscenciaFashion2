@@ -711,6 +711,8 @@ body {
       border: 1px solid #ccc;
       border-radius: 4px;
       background-color: white;
+      width: 100px;
+      color: black;
   }
 
   #state{
@@ -718,6 +720,7 @@ body {
       border: 1px solid #ccc;
       border-radius: 4px;
       background-color: white;
+      width: 100px;
   }
 }
 
