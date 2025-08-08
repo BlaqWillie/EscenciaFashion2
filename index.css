@@ -721,6 +721,10 @@ body {
       background-color: white;
       color: black;
   }
+
+  .telephone{
+    color: white;
+  }
 }
 
 /*form zoom stopper*/
